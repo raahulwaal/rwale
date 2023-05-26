@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`http://rwale.rf.gd/` + encodeURI(path as string)
+					`https://menacehabit.com/qpyq8fqyt?key=97832dddb3c8f79062ad8e7d77cb11ea`
 				}`,
 			},
 		};
